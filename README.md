@@ -20,13 +20,13 @@ You can view my live resume at: https://AthulTM.github.io/resume/
 
 2. **Make Changes Locally:**
 
--Edit index.html, style.css, or any other files as needed.
--If you add a new image or asset, make sure to upload it to the repository.
+- Edit index.html, style.css, or any other files as needed.
+- If you add a new image or asset, make sure to upload it to the repository.
 
 3. **Commit and Push Changes:**
-   git add .
-   git commit -m "Update resume content"
-   git push origin main
+   - git add .
+   - git commit -m "Update resume content"
+   - git push origin main
 
 4. **View the updated resume:**
    After pushing the changes, wait a few moments and visit https://your-username.github.io/resume/ to see the updates.
@@ -35,6 +35,6 @@ You can view my live resume at: https://AthulTM.github.io/resume/
 
 If you have any questions or need further information, feel free to contact me:
 
--Email: athultom_mathew@srmap.edu.in
--LinkedIn: https://www.linkedin.com/in/athul-t-m-001351216/
--GitHub: github.com/AthulTM
+- Email: athultom_mathew@srmap.edu.in
+- LinkedIn: https://www.linkedin.com/in/athul-t-m-001351216/
+- GitHub: github.com/AthulTM
